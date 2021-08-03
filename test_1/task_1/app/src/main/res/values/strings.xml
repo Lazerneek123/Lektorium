@@ -1,0 +1,7 @@
+<resources>
+    <!-- by Lazerneek123 -->
+    <string name="app_name">My Application</string>
+    <string name="inscription">Цей надпис розміщено одразу під зеленим квадратом</string>
+    <string name="initials">Бармутов Роман Максимович</string>
+    <string name="settingsIcon">settingsIcon</string>
+</resources>

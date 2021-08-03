@@ -1,0 +1,6 @@
+<resources>
+    <!-- by Lazerneek123 -->
+    <string name="app_name">My Application</string>
+    <string name="navigate">Navigate</string>
+    <string name="showToast">Show toast</string>
+</resources>
